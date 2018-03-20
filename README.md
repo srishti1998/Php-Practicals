@@ -1,1 +1,2 @@
-# Php-Practicals
+# PHP
+This is a readme file.
